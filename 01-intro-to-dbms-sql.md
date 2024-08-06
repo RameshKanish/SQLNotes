@@ -1,7 +1,7 @@
 # Lecture 1: Introduction to DBMS and SQL
 
 ## Agenda
-
+ 
 - What is a Database
 - What, What Not, Why, How of Scaler SQL Curriculum
 - Types of Databases
